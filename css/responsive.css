@@ -1,0 +1,223 @@
+/* extra small device */
+@media(max-width:575px){
+    .navbar .navbar-brand{
+        position: static;
+    }
+    .navbar .navbar-nav{
+        background: #e23e38;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler{
+        margin-left: auto;
+        margin-right: 10px;
+        border:1px solid #fff;
+    }
+    .navbar-light .navbar-toggler span{
+        color:#fff;
+    }
+    #banner .banner-item{
+        padding-top: 170px;
+        padding-bottom: 90px;
+
+    }
+    #banner .banner-text h3{
+        font-size: 25px; 
+    }
+    #banner .banner-text h3::before{
+        display: none;
+    }
+    #banner .banner-text h3::after{
+        display: none;
+    }
+
+    #banner .banner-text h1{
+        font-size: 45px;
+    }
+    #banner .banner-text h1::before{
+        display: none;
+    }
+    #banner .banner-text h1::after{
+        display: none;
+    }
+    #banner .banner-text p::before{
+        display: none;
+    }
+    #banner .banner-text p::after{
+        display: none;
+    }
+    #banner .banner-text::before{
+        display: none;
+    }
+    #banner .banner-text::after{
+        display: none;
+    }
+    #about {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    #about .about-video{
+        margin-top: 20px;
+    }
+}
+
+/* extra small device */
+
+/* small device */
+@media (min-width:576px) and (max-width:767px){
+    .navbar .navbar-brand{
+        position: static;
+    }
+    .navbar .navbar-nav{
+        background: #e23e38;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler{
+        margin-left: auto;
+        margin-right: 10px;
+        border:1px solid #fff;
+    }
+    .navbar-light .navbar-toggler span{
+        color:#fff;
+    }
+    #banner .banner-item{
+        padding-top: 170px;
+        padding-bottom: 90px;
+
+    }
+    #banner .banner-text h3{
+        font-size: 25px; 
+    }
+    #banner .banner-text h3::before{
+        display: none;
+    }
+    #banner .banner-text h3::after{
+        display: none;
+    }
+
+    #banner .banner-text h1{
+        font-size: 45px;
+    }
+    #banner .banner-text h1::before{
+        display: none;
+    }
+    #banner .banner-text h1::after{
+        display: none;
+    }
+    #banner .banner-text p::before{
+        display: none;
+    }
+    #banner .banner-text p::after{
+        display: none;
+    }
+    #banner .banner-text::before{
+        display: none;
+    }
+    #banner .banner-text::after{
+        display: none;
+    }
+    #about {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    #about .about-video{
+        margin-top: 20px;
+    }
+    #classes .class-menu .nav-pills .nav-link{
+        width: 251px;
+        line-height: 30px;
+        margin-bottom: 2px;
+        margin-right: 2px;
+    }
+    #classes .class-item ul li {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        width: 48%;
+       
+    }
+}
+/* small device */
+/* mediam device */
+@media (min-width:768px) and (max-width:991px){
+    .navbar .navbar-brand{
+        position: static;
+    }
+    .navbar .navbar-nav{
+        background: #e23e38;
+        text-align: center;
+    }
+    .navbar-light .navbar-toggler{
+        margin-left: auto;
+        margin-right: 10px;
+        border:1px solid #fff;
+    }
+    .navbar-light .navbar-toggler span{
+        color:#fff;
+    }
+    #banner .banner-item{
+        padding-top: 170px;
+        padding-bottom: 90px;
+
+    }
+    #banner .banner-text h3{
+        font-size: 25px; 
+    }
+    #banner .banner-text h3::before{
+        display: none;
+    }
+    #banner .banner-text h3::after{
+        display: none;
+    }
+
+    #banner .banner-text h1{
+        font-size: 45px;
+    }
+    #banner .banner-text h1::before{
+        display: none;
+    }
+    #banner .banner-text h1::after{
+        display: none;
+    }
+    #banner .banner-text p::before{
+        display: none;
+    }
+    #banner .banner-text p::after{
+        display: none;
+    }
+    #banner .banner-text::before{
+        display: none;
+    }
+    #banner .banner-text::after{
+        display: none;
+    }
+    #about {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    #about .about-video{
+        margin-top: 20px;
+    }
+
+    #classes .class-menu .nav-pills .nav-link{
+        width: 228px;
+        line-height: 40px;
+        margin-bottom: 2px;
+        margin-right: 2px;
+    }
+
+    #classes .class-item ul li {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        width: 23%;
+       
+    }
+    #brand .prev-arrow {
+        left: -30px;
+     
+    }
+
+    #brand .next-arrow {
+        right: -25px;
+     
+    }
+}
+/* medium device */
